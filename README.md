@@ -1,3 +1,3 @@
 # jewelers
 
-Here's the live version: https://phoenix-burn.github.io/houseofmax/
+Here's the live version: https://phoenix-burn.github.io/jewelers/
