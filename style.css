@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Nixie+One');
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
-
-
 @import url('https://fonts.googleapis.com/css?family=Nixie+One');
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
 
 
+
+
+/* navigation bar */
 
 .navbar-default{
 	background-color: #e74c3c !important;
@@ -80,6 +81,8 @@
 }
 
 
+
+
 /* Slider */
 
 .slider{
@@ -87,10 +90,6 @@
    margin-left: auto !important;
    margin-right: auto !important;
 }
-
-
-/*          Hero Headers        */
-
 
 .hero {
     position: absolute;
@@ -133,9 +132,7 @@
 
 
 
-
-
-
+/* images */
 
 #outer {
     position: relative;
@@ -144,6 +141,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
+
     padding-top: 25%;
     background-color: #999;
   
@@ -208,7 +206,6 @@
 .thumbnail img-responsive {
   padding-top: 10px;
 }
-
 
 
 
@@ -374,5 +371,3 @@ body {
 .footer-bottom-layout {
   text-align: center;
 }
-
-
